@@ -1,3 +1,5 @@
+#Check-storage
+
 This app runs on macOS and adds a widget that allows you to check the capacity in real time.
 
 Download here ↓ 
